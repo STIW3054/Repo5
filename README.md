@@ -12,4 +12,3 @@ My name is Shiau See
 My name is Lee Cheng Hooi
 
 My name is Ong Jing Wen
-
