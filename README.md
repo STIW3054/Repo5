@@ -8,8 +8,3 @@ My name is Tee Mei Yit
 My name is Meenanbeega
 
 My name is Shiau See
-
-237768
-My name is Lee Cheng Hooi
-=======
-master
