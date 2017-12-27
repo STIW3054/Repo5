@@ -57,7 +57,5 @@ public class CloneGitTest {
      */
     @Test
     public void testRun() {
-       
     }
-    
 }
